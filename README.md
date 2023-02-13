@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>GLARA homepage</h1>
+<h1><center>GLARA homepage!</center></h1>
 </body>
 </html>
