@@ -1,5 +1,8 @@
 <html>
 <body>
-<h1><center>GLARA homepage!</center></h1>
+<h1><p>Mission Care Development</p></h1>
+<p>
+  This is a development planned for Love Walk consisting of the demolition of the current care home, capacity 20 beds, and its replacement of another care home with 60 beds.
+  </p>
 </body>
 </html>
