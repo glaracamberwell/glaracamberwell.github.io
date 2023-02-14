@@ -1,12 +1,8 @@
-layout: page
-title: "gallery"
-permalink: /gallery
-
 <html>
 <body>
 <h1><center>Gallery</center></h1>
 <p>
-  Photos to follow
+  <img src=”(https://photos.app.goo.gl/6ce35fUM9seKJBqa8)”>
   </p>
 </body>
 </html>
