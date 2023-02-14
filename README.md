@@ -1,8 +1,11 @@
 <html>
 <body>
 <!--Links Section-->
-<p><h3 id="header-3">Useful Links</h3></p>
-<p><a href="./gallery.html">Gallery</a></p>
+<p>
+<h3 id="header-3">Useful Links</h3>
+<a href="./gallery.html">Gallery</a>
+<a href="https://www.southwark.gov.uk/planning-and-building-control/planning-applications/planning-register-search-view-and-comment-on-planning-applications?chapter=2">Council planning site</a>
+</p>
   
 <!--Text body-->
 <h1><p>Mission Care Development</p></h1>
